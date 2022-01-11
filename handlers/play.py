@@ -1,4 +1,4 @@
-# Devil Hacker // @D3vilHack3r
+# CADEN-OP// @Caden_OP
 
 import os
 from os import path
@@ -185,7 +185,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="JOIN GROUP",
+                            text="JOIN GROUP AND GET REPO",
                             url=f"https://t.me/VAMPIRE_EMPIRE_OFFICIAL")
 
                 ]
@@ -224,7 +224,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="JOIN AND DO BACKCHODI",
+                            text="JOIN AND GET REPO",
                             url=f"https://t.me/Vampire_baap")
 
                 ]
@@ -240,7 +240,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="JOIN AND DO BACKCHODI",
+                            text="JOIN AND GET REPO",
                             url=f"https://t.me/VAMPIRE_EMPIRE_OFFICIAL")
 
                 ]
@@ -295,7 +295,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="JOIN AND DO BACKCHODI",
+                            text="JOIN AND GET REPO",
                             url=f"https://t.me/VAMPIRE_EMPIRE_OFFICIAL")
 
                 ]
